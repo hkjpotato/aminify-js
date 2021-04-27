@@ -1,6 +1,6 @@
 {
   "name": "package-a",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
-    "package-b-kj": "^0.0.3"
+    "package-b-kj": "^0.0.4"
   },
   "gitHead": "3fa935d391b968ef685f04ba5fab3bbcfd334aed"
 }
