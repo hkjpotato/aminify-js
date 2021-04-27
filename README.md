@@ -6,3 +6,5 @@
 - [Lerna](https://github.com/lerna/lerna)
 - [Learn with Yarn Workspaces](https://medium.com/@jsilvax/a-workflow-guide-for-lerna-with-yarn-workspaces-60f97481149d#:~:text=Lerna%20adds%20utility%20functionality%20on,command%2C%20automatically%20updates%20the%20package.)
 
+TODO:
+- testing integration with github
