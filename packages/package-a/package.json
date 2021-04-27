@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
-    "package-b": "^0.0.3"
+    "package-b-kj": "^0.0.3"
   },
-  "gitHead": "30a1bb8edb77d2b7ba236553b06e53db4bc01b4c"
+  "gitHead": "3fa935d391b968ef685f04ba5fab3bbcfd334aed"
 }

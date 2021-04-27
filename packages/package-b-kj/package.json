@@ -1,5 +1,5 @@
 {
-  "name": "package-b",
+  "name": "package-b-kj",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,5 @@
   "dependencies": {
     "react": "^17.0.2"
   },
-  "gitHead": "30a1bb8edb77d2b7ba236553b06e53db4bc01b4c"
+  "gitHead": "3fa935d391b968ef685f04ba5fab3bbcfd334aed"
 }
