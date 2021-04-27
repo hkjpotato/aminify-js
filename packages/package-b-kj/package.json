@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": "^17.0.2"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "gitHead": "c18d3a7d679557877fc1e20ecb7f14f8ca002d7a"
 }
