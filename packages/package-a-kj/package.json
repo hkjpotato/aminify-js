@@ -1,5 +1,5 @@
 {
-  "name": "package-a",
+  "name": "package-a-kj",
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
     "lodash": "^4.17.21",
     "package-b-kj": "^0.0.4"
   },
-  "gitHead": "3fa935d391b968ef685f04ba5fab3bbcfd334aed"
+  "gitHead": "c18d3a7d679557877fc1e20ecb7f14f8ca002d7a"
 }
